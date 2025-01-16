@@ -1,7 +1,5 @@
 # Dannydejesus
 
-# Dannydejesus
-
 <h1 align="center">Hola 👋,soy Danny Gonzalez</h1>
 <h3 align="center">Un analista de datos apasionado por descubrir el poder oculto en los números. Mi objetivo es transformar datos complejos en soluciones claras y accionables que impulsan el éxito de las organizaciones. Con un sólido dominio en herramientas de análisis y visualización, me esfuerzo por presentar insights de una manera comprensible y visualmente atractiva. Mi amor por las tecnologías emergentes me lleva a estar siempre al día con las últimas tendencias y herramientas en el campo de la ciencia de datos. Disfruto trabajar en entornos colaborativos y aportar valor a través de mi capacidad analítica y pensamiento crítico.</h3>
 
