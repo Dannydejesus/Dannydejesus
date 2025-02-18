@@ -1,7 +1,18 @@
 # Dannydejesus
 
 <h1 align="center">Hola 👋,soy Danny Gonzalez</h1>
-<h3 align="center">Un analista de datos apasionado por descubrir el poder oculto en los números. Mi objetivo es transformar datos complejos en soluciones claras y accionables que impulsan el éxito de las organizaciones. Con un sólido dominio en herramientas de análisis y visualización, me esfuerzo por presentar insights de una manera comprensible y visualmente atractiva. Mi amor por las tecnologías emergentes me lleva a estar siempre al día con las últimas tendencias y herramientas en el campo de la ciencia de datos. Disfruto trabajar en entornos colaborativos y aportar valor a través de mi capacidad analítica y pensamiento crítico.</h3>
+<h3 align="center">Un analista de datos apasionado por descubrir el poder oculto en los números. Mi objetivo es transformar datos complejos en soluciones claras y accionables que impulsan el éxito de las organizaciones. Con un sólido dominio en herramientas de análisis y visualización, me esfuerzo por presentar insights de una manera comprensible y visualmente atractiva. Mi amor por las tecnologías emergentes me lleva a estar siempre al día con las últimas tendencias y herramientas en el campo de la ciencia de datos. Disfruto trabajar en entornos colaborativos y aportar valor a través de mi capacidad analítica y pensamiento crítico.
+
+📊 Habilidades técnicas:
+✔️ Manejo de SQL, Python y Power BI para el análisis y visualización de datos.
+✔️ Creación de paneles interactivos para mejorar la toma de decisiones.
+✔️ Limpieza, transformación y modelado de datos para optimizar procesos.
+✔️ Data Storytelling: convierto números en historias que generan impacto.
+
+🤝 Habilidades blandas:
+✔️ Trabajo en equipo: Me adapto a diferentes entornos colaborativos para lograr resultados en conjunto.
+✔️ Pensamiento analítico: Desgloso problemas complejos y encuentro soluciones basadas en datos.
+✔️ Pensamiento crítico: Evaluación</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannydejesus&label= Profile%20views&color=0e75b6&style=flat" alt="dannydejesus" /> </p>
 
