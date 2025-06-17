@@ -1,6 +1,6 @@
 # 🚀 Danny Gonzalez | Data Analytics
 
-📍 Lima, Perú | 📧 dannyg260580@hotmail.com | [GitHub](https://github.com/Dannydejesus) | [LinkedIn](https://www.linkedin.com/in/danny-gonzález-data-scientist)
+📍 Lima, Perú | 📧 dannyg260580@hotmail.com | [WhatsApp](+51 986862421) | [LinkedIn](https://www.linkedin.com/in/danny-gonzález-data-scientist)
 
 ---
 
