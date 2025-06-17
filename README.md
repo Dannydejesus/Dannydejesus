@@ -23,7 +23,7 @@ Soy un **Analista de Datos** apasionado por transformar datos en información va
   - Desarrollo de un dashboard interactivo en Power BI con filtros dinámicos.  
   - Implementación de consultas en SQL Server para extracción y limpieza de datos.  
   - **Tecnologías:** SQL Server, Python (Pandas, Matplotlib), Power BI  
-  - 🔗 [Ver Proyecto](#)
+  - 🔗 [Ver Proyecto](https://github.com/Dannydejesus/Proyecto-final-NBA)
 
 - **🚀 Expansión Estratégica de Biogenesys con Python**  
   - Procesamiento de un dataset con más de 500,000 registros utilizando ETL en Python y SQL.  
@@ -43,9 +43,8 @@ Soy un **Analista de Datos** apasionado por transformar datos en información va
 - **Aprender a aprender: técnicas para tu autodesarrollo** - AluraLatam (2024)  
 
 ### 📫 Conéctate conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/danny-gonzalez/)
+- 💼 [LinkedIn](www.linkedin.com/in/danny-gonzález-data-scientist)
 - 📧 [Correo](mailto:danny.gonzalez@email.com)
-- 🖥️ [GitHub](https://github.com/Dannydejesus)
 
 ### ⭐ ¿Interesado en colaborar?
 Siempre estoy abierto a nuevas oportunidades y proyectos. ¡Hablemos! 🚀
