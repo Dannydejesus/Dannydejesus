@@ -34,6 +34,16 @@ Soy un **Analista de Datos** con experiencia en **extracción, transformación y
 - 📊 **Métodos:** Modelado de datos, métricas clave, dashboards dinámicos  
 - 🔗 [Ver Proyecto](#)  
 
+### 📊 **Análisis de Evasión de Clientes (Churn) en TelecomX**  
+🔍 **Objetivo:** Identificar los principales factores que influyen en la evasión de clientes de una empresa de telecomunicaciones (**TelecomX**) mediante un análisis exploratorio y descriptivo.  
+🛠 **Tecnologías:** Python (Pandas, NumPy), SQL Server, Power BI  
+📊 **Métodos:** ETL, análisis estadístico, visualización avanzada  
+📈 **Resultados:**  
+- Identificación de patrones de evasión basados en datos históricos.  
+- Creación de dashboards interactivos con métricas clave.  
+- Análisis predictivo para la retención de clientes.  
+🔗 [Ver Proyecto](https://github.com/alura-cursos/challenge2-data-science-LATAM/blob/main/TelecomX_Data.json)  
+
 ---
 
 ## 🎓 Formación Académica  
