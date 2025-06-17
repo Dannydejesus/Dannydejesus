@@ -1,57 +1,51 @@
 # Dannydejesus
 
-<h1 align="center">Hola 👋,soy Danny Gonzalez</h1>
-<h3 align="center">Un analista de datos apasionado por descubrir el poder oculto en los números. Mi objetivo es transformar datos complejos en soluciones claras y accionables que impulsan el éxito de las organizaciones. Con un sólido dominio en herramientas de análisis y visualización, me esfuerzo por presentar insights de una manera comprensible y visualmente atractiva. Mi amor por las tecnologías emergentes me lleva a estar siempre al día con las últimas tendencias y herramientas en el campo de la ciencia de datos. Disfruto trabajar en entornos colaborativos y aportar valor a través de mi capacidad analítica y pensamiento crítico.
+# 👋 ¡Hola! Soy Danny Gonzalez
 
+### 🌎 Sobre mí
+Soy un **Analista de Datos** apasionado por transformar datos en información valiosa. Mi enfoque combina la precisión técnica con la capacidad de comunicar insights estratégicos de manera efectiva.
 
+### 🛠️ Tecnologías y habilidades
+- 📊 **Data Analytics**: Python, SQL, Power BI, Excel  
+- 🛠️ **ETL & Automatización**: Procesos de extracción, transformación y carga de datos  
+- 📈 **Visualización de datos**: Creación de dashboards interactivos para toma de decisiones  
+- 📖 **Storytelling**: Comunicación efectiva de hallazgos y estrategias  
 
+### 🚀 Experiencia
+**Gestor de Ventas - People Outsourcing S.A. (2024 - 2025)**  
+- Análisis de ventas y tendencias para optimizar estrategias comerciales.  
+- Desarrollo de exhibiciones visuales alineadas con objetivos de negocio.  
+- Colaboración con equipos de marketing y ventas para maximizar impacto.  
 
-📊 Habilidades técnicas:
-✔️ Manejo de SQL, Python y Power BI para el análisis y visualización de datos.
-✔️ Creación de paneles interactivos para mejorar la toma de decisiones.
-✔️ Limpieza, transformación y modelado de datos para optimizar procesos.
-✔️ Data Storytelling: convierto números en historias que generan impacto.
+### 📌 Proyectos Destacados
+- **📊 Análisis Estadístico de la NBA para Inversiones Futuras**  
+  - Exploración de datos históricos de la NBA para detectar patrones de rendimiento.  
+  - Desarrollo de un dashboard interactivo en Power BI con filtros dinámicos.  
+  - Implementación de consultas en SQL Server para extracción y limpieza de datos.  
+  - **Tecnologías:** SQL Server, Python (Pandas, Matplotlib), Power BI  
+  - 🔗 [Ver Proyecto](#)
 
+- **🚀 Expansión Estratégica de Biogenesys con Python**  
+  - Procesamiento de un dataset con más de 500,000 registros utilizando ETL en Python y SQL.  
+  - Creación de dashboards en Power BI para visualizar la evolución de casos y proyecciones de expansión.  
+  - Evaluación del impacto del COVID-19 en la estrategia empresarial.  
+  - **Tecnologías:** SQL Server, Python (Pandas, NumPy, Matplotlib), Power BI  
+  - 🔗 [Ver Proyecto](#)
 
+### 🎓 Educación
+- **Data Analytics - Henry Bootcamp (2024 - 2025)**  
+  - Formación intensiva en análisis de datos, ETL, SQL, Python y visualización en Power BI.  
+- **Informática - Tecnológico UNIR (2007 - 2010)**  
 
+### 📜 Certificaciones
+- **Foco: Enfocarse para mejorar resultados** - AluraLatam (2024)  
+- **Hábitos: Ser productivo para cumplir metas personales** - AluraLatam (2024)  
+- **Aprender a aprender: técnicas para tu autodesarrollo** - AluraLatam (2024)  
 
-🤝 Habilidades blandas:
-✔️ Trabajo en equipo: Me adapto a diferentes entornos colaborativos para lograr resultados en conjunto.
-✔️ Pensamiento analítico: Desgloso problemas complejos y encuentro soluciones basadas en datos.
-✔️ Pensamiento crítico: Evaluación</h3>
+### 📫 Conéctate conmigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/danny-gonzalez/)
+- 📧 [Correo](mailto:danny.gonzalez@email.com)
+- 🖥️ [GitHub](https://github.com/Dannydejesus)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dannydejesus&label= Profile%20views&color=0e75b6&style=flat" alt="dannydejesus" /> </p>
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://https://www.linkedin.com/in/danny-gonzález-352744244" target="blank"><img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danny de j. gonzález" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannydejesus&show_icons=true&locale=es&layout=compact" alt="dannydejesus" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannydejesus&show_icons=true&locale=es" alt="dannydejesus" /></p>
+### ⭐ ¿Interesado en colaborar?
+Siempre estoy abierto a nuevas oportunidades y proyectos. ¡Hablemos! 🚀
