@@ -1,6 +1,6 @@
 # 🚀 Danny Gonzalez | Data Analytics
 
-📍 Lima, Perú | [📧 Email](mailto:dannyg260580@hotmail.com) | [📱 WhatsApp](https://wa.me/51986862421)  
+📍 Lima, Perú | [📧 Email](mailto:dannyg260580@hotmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/danny-gonzález-data-scientist) | [📱 WhatsApp](https://wa.me/51986862421) 
 
 ---
 
@@ -35,7 +35,7 @@ Soy un **Analista de Datos** con experiencia en **extracción, transformación y
 - 🔗 [Ver Proyecto](#)  
 
 ### 📊 **Análisis de Evasión de Clientes en TelecomX**  
-- 🔍 **Objetivo:** Identificar los principales factores que influyen en la evasión de clientes de una empresa de telecomunicaciones (**TelecomX**) mediante un análisis exploratorio y descriptivo.  
+- 🔍 **Objetivo:** Identificar los principales factores que influyen en la evasión de clientes mediante un análisis exploratorio y descriptivo.  
 - 🛠 **Tecnologías:** Python (Pandas, NumPy), SQL Server, Power BI  
 - 📊 **Métodos:** ETL, análisis estadístico, visualización avanzada  
 - 📈 **Resultados:**  
@@ -59,12 +59,14 @@ Soy un **Analista de Datos** con experiencia en **extracción, transformación y
 
 ---
 
-## 📩 Contacto  
-💼 [LinkedIn](https://www.linkedin.com/in/danny-gonzález-data-scientist)  
-📧 [Correo](mailto:dannyg260580@hotmail.com)  
- 
----
-
 ## 🚀 ¿Interesado en colaborar?  
 Siempre estoy abierto a **nuevas oportunidades** en Data Analytics, Machine Learning y Visualización de Datos.  
 ¡Hablemos! 👨‍💻✨
+
+---
+
+## 📩 Contactame 
+💼 [LinkedIn](https://www.linkedin.com/in/danny-gonzález-data-scientist)  
+📧 [Correo](mailto:dannyg260580@hotmail.com)  
+[📱 WhatsApp](https://wa.me/51986862421) 
+ 
