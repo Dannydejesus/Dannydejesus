@@ -1,50 +1,60 @@
-# Dannydejesus
+# 🚀 Danny Gonzalez | Data Analytics
 
-# 👋 ¡Hola! Soy Danny Gonzalez
+📍 Lima, Perú | 📧 dannyg260580@hotmail.com | [GitHub](https://github.com/Dannydejesus) | [LinkedIn](https://www.linkedin.com/in/danny-gonzález-data-scientist)
 
-### 🌎 Sobre mí
-Soy un **Analista de Datos** apasionado por transformar datos en información valiosa. Mi enfoque combina la precisión técnica con la capacidad de comunicar insights estratégicos de manera efectiva.
+---
 
-### 🛠️ Tecnologías y habilidades
-- 📊 **Data Analytics**: Python, SQL, Power BI, Excel  
-- 🛠️ **ETL & Automatización**: Procesos de extracción, transformación y carga de datos  
-- 📈 **Visualización de datos**: Creación de dashboards interactivos para toma de decisiones  
-- 📖 **Storytelling**: Comunicación efectiva de hallazgos y estrategias  
+## 🧐 Sobre mí  
+Soy un **Analista de Datos** con experiencia en **extracción, transformación y análisis de datos** para la toma de decisiones estratégicas. Me apasiona el análisis predictivo, la optimización de procesos y la creación de **dashboards interactivos** en Power BI.  
 
-### 🚀 Experiencia
-**Gestor de Ventas - People Outsourcing S.A. (2024 - 2025)**  
-- Análisis de ventas y tendencias para optimizar estrategias comerciales.  
-- Desarrollo de exhibiciones visuales alineadas con objetivos de negocio.  
-- Colaboración con equipos de marketing y ventas para maximizar impacto.  
+💡 **Objetivo:** Convertir datos en información **accionable** mediante técnicas de **Machine Learning, ETL y automatización**.  
 
-### 📌 Proyectos Destacados
-- **📊 Análisis Estadístico de la NBA para Inversiones Futuras**  
-  - Exploración de datos históricos de la NBA para detectar patrones de rendimiento.  
-  - Desarrollo de un dashboard interactivo en Power BI con filtros dinámicos.  
-  - Implementación de consultas en SQL Server para extracción y limpieza de datos.  
-  - **Tecnologías:** SQL Server, Python (Pandas, Matplotlib), Power BI  
-  - 🔗 [Ver Proyecto](https://github.com/Dannydejesus/Proyecto-final-NBA)
+---
 
-- **🚀 Expansión Estratégica de Biogenesys con Python**  
-  - Procesamiento de un dataset con más de 500,000 registros utilizando ETL en Python y SQL.  
-  - Creación de dashboards en Power BI para visualizar la evolución de casos y proyecciones de expansión.  
-  - Evaluación del impacto del COVID-19 en la estrategia empresarial.  
-  - **Tecnologías:** SQL Server, Python (Pandas, NumPy, Matplotlib), Power BI  
-  - 🔗 [Ver Proyecto](#)
+## 🔧 Tecnologías y herramientas  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoftsqlserver&logoColor=white) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+✏️ **Storytelling de Datos** | 📊 **Visualización Interactiva** | 🔍 **Optimización de Procesos**
 
-### 🎓 Educación
-- **Data Analytics - Henry Bootcamp (2024 - 2025)**  
-  - Formación intensiva en análisis de datos, ETL, SQL, Python y visualización en Power BI.  
-- **Informática - Tecnológico UNIR (2007 - 2010)**  
+---
 
-### 📜 Certificaciones
-- **Foco: Enfocarse para mejorar resultados** - AluraLatam (2024)  
-- **Hábitos: Ser productivo para cumplir metas personales** - AluraLatam (2024)  
-- **Aprender a aprender: técnicas para tu autodesarrollo** - AluraLatam (2024)  
+## 📌 Proyectos Destacados  
+### 📊 Análisis Estadístico de la NBA  
+- 🔍 **Objetivo:** Identificar patrones de rendimiento en equipos de la NBA para inversión estratégica.  
+- 🛠 **Tecnologías:** Python (Pandas, Matplotlib), SQL Server, Power BI  
+- 📊 **Métodos:** ETL, análisis exploratorio, visualización avanzada  
+- 🔗 [Ver Proyecto](https://github.com/Dannydejesus/Proyecto-final-NBA)  
 
-### 📫 Conéctate conmigo
-- 💼 [LinkedIn](www.linkedin.com/in/danny-gonzález-data-scientist)
-- 📧 [Correo](mailto:danny.gonzalez@email.com)
+### 🚀 Expansión Estratégica de Biogenesys  
+- 🏥 **Objetivo:** Evaluación de datos de COVID-19 y proyecciones de expansión empresarial.  
+- 🛠 **Tecnologías:** Python (NumPy, Pandas), SQL Server, Power BI  
+- 📊 **Métodos:** Modelado de datos, métricas clave, dashboards dinámicos  
+- 🔗 [Ver Proyecto](#)  
 
-### ⭐ ¿Interesado en colaborar?
-Siempre estoy abierto a nuevas oportunidades y proyectos. ¡Hablemos! 🚀
+---
+
+## 🎓 Formación Académica  
+📌 **Data Analytics - Henry Bootcamp (2024 - 2025)**  
+📌 **Informática - Tecnológico UNIR (2007 - 2010)**  
+
+---
+
+## 📜 Certificaciones  
+📑 **Foco: Enfocarse para mejorar resultados** - AluraLatam  
+📑 **Hábitos: Ser productivo para cumplir metas personales** - AluraLatam  
+📑 **Aprender a aprender: técnicas para tu autodesarrollo** - AluraLatam  
+
+---
+
+## 📩 Contacto  
+💼 [LinkedIn](https://www.linkedin.com/in/danny-gonzález-data-scientist)  
+📧 [Correo](mailto:dannyg260580@hotmail.com)  
+ 
+---
+
+## 🚀 ¿Interesado en colaborar?  
+Siempre estoy abierto a **nuevas oportunidades** en Data Analytics, Machine Learning y Visualización de Datos.  
+¡Hablemos! 👨‍💻✨
