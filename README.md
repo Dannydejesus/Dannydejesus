@@ -32,7 +32,7 @@ Soy un **Analista de Datos** con experiencia en **extracción, transformación y
 - 🏥 **Objetivo:** Evaluación de datos de COVID-19 y proyecciones de expansión empresarial.  
 - 🛠 **Tecnologías:** Python (NumPy, Pandas), SQL Server, Power BI  
 - 📊 **Métodos:** Modelado de datos, métricas clave, dashboards dinámicos  
-- 🔗 [Ver Proyecto](#)  
+- 🔗 [Ver Proyecto](https://drive.google.com/drive/folders/10YTyrZtElPys816waHtkN1QzFJ1qztSy?usp=drive_link)  
 
 ### 📊 **Análisis de Evasión de Clientes en TelecomX**  
 - 🔍 **Objetivo:** Identificar los principales factores que influyen en la evasión de clientes mediante un análisis exploratorio y descriptivo.  
