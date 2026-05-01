@@ -42,7 +42,7 @@ Soy un **Analista de Datos** con experiencia en **extracción, transformación y
 - Identificación de patrones de evasión basados en datos históricos.  
 - Creación de dashboards interactivos con métricas clave.  
 - Análisis predictivo para la retención de clientes.  
-🔗 [Ver Proyecto](https://github.com/Dannydejesus/TelecomX_LATAM)  
+🔗 [Ver Proyecto]([https://github.com/Dannydejesus/TelecomX_LATAM](https://github.com/Dannydejesus/TelecomX_parte2_Latam/tree/master))  
 
 ---
 
